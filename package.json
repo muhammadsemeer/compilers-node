@@ -1,0 +1,15 @@
+{
+  "name": "galaxieon-code-expiremental",
+  "version": "0.0.0",
+  "description": "Galaxieon Code's Expiremental Version",
+  "main": "app.js",
+  "author": "Muhammad Semeer",
+  "license": "MIT",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
